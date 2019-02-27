@@ -5,9 +5,8 @@ function Navbar() {
     return (
         <div>
         <nav className='navbar'>
-            <a>Link One</a>
-            <a>Link Two</a>
-            <a>Link Three</a>
+            <a>Famous Players</a>
+            <a>Historic Matches</a>
         </nav>
         </div>
     );
