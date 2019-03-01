@@ -1,0 +1,35 @@
+.card {
+  width: 30%;
+  margin-left: 20px;
+  background-color: aliceblue;
+  float: left;
+  border-radius: 9px;
+  box-shadow: 1px 1px 20px 10px rgba(168, 165, 165, 0.589);
+  text-align: center;
+  transition: 0.3s;
+  margin-top: 20px;
+  }
+
+  .card:hover {
+    box-shadow: 1px 1px 20px 10px rgba(182, 181, 181, 0.589);
+   }
+    
+  
+  .card > .img-container {
+    width: 100%;
+    border-radius: 9px;
+
+  }
+  .card > .img-container > img {
+    width: 100%;
+  }
+  
+  .card > .content {
+    padding: 10px;
+    font-family: 'Cinzel', serif;
+    font-size: 14px;
+    text-align: justify;
+    font-weight: 600;
+  }
+  
+  

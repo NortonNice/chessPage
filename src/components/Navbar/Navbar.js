@@ -5,7 +5,7 @@ function Navbar() {
     return (
         <div>
         <nav className='navbar'>
-            <a>Famous Players</a>
+            <a>Famous Players and  </a>
             <a>Historic Matches</a>
         </nav>
         </div>
